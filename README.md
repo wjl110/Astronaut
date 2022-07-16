@@ -15,6 +15,7 @@ An Astro + Tailwind CSS starter kit for landing pages.
 - 🔎 SEO-enabled (as measured by https://web.dev/measure/)
 - 🔗 Open Graph tags for social media sharing
 
+
 ## Commands
 
 | Command           | Action                                            |
